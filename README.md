@@ -1,5 +1,5 @@
 # style-guide-checklist
-The purpose of this document is to help people develop style guides for website design. A clear and complete style guide can help speed up development and reduce design errors, as well as provide a valuable tool for expanding your project in the future and for quality assurance testing. 
+The purpose of this document is to help people develop style guides for website design. A clear and complete style guide can help speed up development and reduce design errors, as well as provide a valuable tool for expanding your project in the future and for quality assurance testing. They are also important pairings with traditional PSDs, as PSDs do not reflect how a site will be rendered in the web, particularly for fonts. Developers and designers can work to tweak the design in the browser and standardize that in the style guide.
 
 # Checklist
 In order to develop this checklist, I relied on this [analysis](https://docs.google.com/spreadsheets/d/1tZYPnzLG0y51QinLxrV97Xflzr2MbTqwWNvaHYN04BE/edit#gid=0) of common components, as well as personal experience.
