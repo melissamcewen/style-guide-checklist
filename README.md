@@ -11,14 +11,17 @@ For a bare minimum style guide
 ### Type
 Each type style should denote the size (ideally in pixels), line height, font, and any variations in weight (bold, light, etc.) or style (italic, underline). This would be provided for all type in the design, for example
 
+* Paragraph text
 * Heading 1
 * Heading 2
 * Heading 3
 * Heading 4
-* Paragraph text
 * Blockquote
 * Unordered list
 * Ordered list
 
 ### Colors
 What colors are used in the design?
+
+### Anything else
+For a minimalist style guide, you may want to learn back on a framework like Bootstrap for anything not defined by your style giude
