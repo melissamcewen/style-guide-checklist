@@ -24,4 +24,4 @@ Each type style should denote the size (ideally in pixels), line height, font, a
 What colors are used in the design?
 
 ### Anything else
-For a minimalist style guide, you may want to learn back on a framework like Bootstrap for anything not defined by your style giude
+For a minimalist style guide, you may want to lean back on a framework like Bootstrap for anything not defined by your style giude
