@@ -23,5 +23,8 @@ Each type style should denote the size (ideally in pixels), line height, font, a
 ### Colors
 What colors are used in the design?
 
+### Iconography
+What custom icons are used? 
+
 ### Anything else
 For a minimalist style guide, you may want to lean back on a framework like Bootstrap for anything not defined by your style giude
